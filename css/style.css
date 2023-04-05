@@ -1,0 +1,17 @@
+h1 {
+    color: green;
+    font-size: 28px;
+}
+
+body {
+    margin: 0px 0px 0px 0px;
+    font-size: 78;
+}
+
+.color_red {
+    color: red;
+}
+.color_green {
+    color: green;
+}
+
